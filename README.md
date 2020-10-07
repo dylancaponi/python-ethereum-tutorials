@@ -19,6 +19,6 @@
 
 2. Create API Key: https://infura.io/product/ethereum
 
-3. cp template.creds.py creds.py
+3. `cp template.creds.py creds.py`
 
 4. Set `infura_url = <mainnet url>`
