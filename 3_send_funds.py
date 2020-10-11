@@ -6,7 +6,7 @@ ganache_url = "http://127.0.0.1:7545"
 web3 = Web3(Web3.HTTPProvider(ganache_url))
 
 print(web3.isConnected())
-print(web3.eth.blockNumber())
+print(web3.eth.blockNumber)
 
 # We're using this test net so no real funds are used
 # https://truffleframework.com/ganache
