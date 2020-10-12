@@ -4,7 +4,7 @@
 # Set compile version to match pragma solidity version below
 # Set environment to web3 provider and port to match RPC server in Ganache
 # Hit deploy and you will see a contract in Ganache transactions
-# Copy deployed contract address from remix.ethereum.org under deployed contracts
+# Copy deployed contract_address from remix.ethereum.org under deployed contracts
 # Copy ABI from bottom of compile tab in remix.ethereum.org
 # Create empty 4_abi.json
 # Paste ABI into 4_abi.json
